@@ -1,0 +1,17 @@
+# Désactive l'affichage du contenu des répertoires 
+Options -Indexes
+
+# Active le module de réécriture d'URL
+RewriteEngine On
+
+# Autorise l'accès direct aux ressources statiques
+RewriteCond %{REQUEST_URI} !\.(css|js|png|jpg|gif|svg|woff|woff2|ttf|eot)$ [NC]
+
+# Si le fichier demandé n'existe pas physiquement
+RewriteCond %{REQUEST_FILENAME} !-f
+
+# Si le répertoire demandé n'existe pas physiquement
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Redirige toutes les autres requêtes vers index.php
+RewriteRule ^ index.php [L,QSA]
