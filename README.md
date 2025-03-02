@@ -65,8 +65,8 @@ phpPlanFlow est une application web de gestion de projet développée en **PHP n
    git clone https://github.com/ton-utilisateur/ton-depot.git
    ```
 2. Importez la base de données (`database.sql`) dans MySQL.
-3. Configurez le fichier de connexion à la base de données (`config/DATABASE.php`).
-4. Lancez l'application sur un serveur local (XAMPP, WAMP, ou autre).
+3. Configurez le fichier de connexion à la base de données (`config/Database.php`).
+5. Lancez l'application sur un serveur local (XAMPP, WAMP, ou autre).
 
 ---
 
