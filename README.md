@@ -72,9 +72,12 @@ phpPlanFlow est une application web de gestion de projet développée en **PHP n
 
 ## 📸 Captures d'écran
 
-_À venir : Ajoutez des captures d'écran de l'interface utilisateur pour donner un aperçu visuel de l'application._
-
----
+![Capture d'écran](https://github.com/yassinekamouss/phpPlanFlow/blob/2cf3febf08cfae17815e9355d1cdf134a9d3dcc2/Capture%20d'%C3%A9cran%202025-03-02%20124502.png)
+![Capture d'écran](https://github.com/yassinekamouss/phpPlanFlow/blob/2cf3febf08cfae17815e9355d1cdf134a9d3dcc2/Capture%20d'%C3%A9cran%202025-03-02%20124622.png)
+![Capture d'écran](https://github.com/yassinekamouss/phpPlanFlow/blob/2cf3febf08cfae17815e9355d1cdf134a9d3dcc2/Capture%20d'%C3%A9cran%202025-03-02%20124655.png)
+![Capture d'écran](https://github.com/yassinekamouss/phpPlanFlow/blob/2cf3febf08cfae17815e9355d1cdf134a9d3dcc2/Capture%20d'%C3%A9cran%202025-03-02%20124713.png)
+![Capture d'écran](https://github.com/yassinekamouss/phpPlanFlow/blob/2cf3febf08cfae17815e9355d1cdf134a9d3dcc2/Capture%20d'%C3%A9cran%202025-03-02%20124523.png)
+![Capture d'écran](https://github.com/yassinekamouss/phpPlanFlow/blob/2cf3febf08cfae17815e9355d1cdf134a9d3dcc2/Capture%20d'%C3%A9cran%202025-03-02%20124543.png)
 
 ## 📧 Contact
 
